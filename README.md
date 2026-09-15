@@ -5,7 +5,9 @@
 This project implements a fixed-time four-way traffic light control system using an Arduino Uno. The circuit and traffic-light sequence were designed and simulated in Wokwi, while PlatformIO was used to manage and compile the Arduino C++ project.
 
 The four traffic-light heads are organized into two phases. Opposing directions share the same signal state, allowing one pair of directions to proceed while the other pair remains stopped.
+## Simulation Preview
 
+![Four-way traffic light simulation in Wokwi](traffic_light_simulation.png)
 ## Tools and Technologies
 
 * Arduino Uno
